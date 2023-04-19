@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\eService.Portal.Web.Mvc.props" />
+</Project>

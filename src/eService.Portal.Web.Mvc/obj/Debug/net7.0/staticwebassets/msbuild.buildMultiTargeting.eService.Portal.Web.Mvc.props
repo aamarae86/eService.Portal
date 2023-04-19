@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eService.Portal.Web.Mvc.props" />
+</Project>
