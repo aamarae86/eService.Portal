@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Core\\eService.Portal.Core.csproj": {}
+    "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Core\\eService.Portal.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Core\\eService.Portal.Core.csproj": {
+    "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Core\\eService.Portal.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Core\\eService.Portal.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Core\\eService.Portal.Core.csproj",
         "projectName": "eService.Portal.Core",
-        "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Core\\eService.Portal.Core.csproj",
+        "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Core\\eService.Portal.Core.csproj",
         "packagesPath": "C:\\Users\\Shahid Randhawa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Core\\obj\\",
+        "outputPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shahid Randhawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13693,11 +13693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\test\\eService.Portal.Web.Tests\\eService.Portal.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\test\\eService.Portal.Web.Tests\\eService.Portal.Web.Tests.csproj",
       "projectName": "eService.Portal.Web.Tests",
-      "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\test\\eService.Portal.Web.Tests\\eService.Portal.Web.Tests.csproj",
+      "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\test\\eService.Portal.Web.Tests\\eService.Portal.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\Shahid Randhawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\test\\eService.Portal.Web.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\test\\eService.Portal.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shahid Randhawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13714,11 +13714,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Mvc\\eService.Portal.Web.Mvc.csproj": {
-              "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Mvc\\eService.Portal.Web.Mvc.csproj"
+            "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Mvc\\eService.Portal.Web.Mvc.csproj": {
+              "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Mvc\\eService.Portal.Web.Mvc.csproj"
             },
-            "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\test\\eService.Portal.Tests\\eService.Portal.Tests.csproj": {
-              "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\test\\eService.Portal.Tests\\eService.Portal.Tests.csproj"
+            "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\test\\eService.Portal.Tests\\eService.Portal.Tests.csproj": {
+              "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\test\\eService.Portal.Tests\\eService.Portal.Tests.csproj"
             }
           }
         }

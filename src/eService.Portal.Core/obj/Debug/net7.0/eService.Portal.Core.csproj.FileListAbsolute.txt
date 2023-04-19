@@ -22,3 +22,15 @@ C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eServi
 C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eService.Portal.Core\obj\Debug\net7.0\refint\eService.Portal.Core.dll
 C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.pdb
 C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eService.Portal.Core\obj\Debug\net7.0\ref\eService.Portal.Core.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\bin\Debug\net7.0\eService.Portal.Core.deps.json
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\bin\Debug\net7.0\eService.Portal.Core.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\bin\Debug\net7.0\eService.Portal.Core.pdb
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.csproj.AssemblyReference.cache
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.AssemblyInfoInputs.cache
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.AssemblyInfo.cs
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.csproj.CoreCompileInputs.cache
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\refint\eService.Portal.Core.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\eService.Portal.Core.pdb
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Core\obj\Debug\net7.0\ref\eService.Portal.Core.dll

@@ -10744,11 +10744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Host\\eService.Portal.Web.Host.csproj",
+      "projectUniqueName": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Host\\eService.Portal.Web.Host.csproj",
       "projectName": "eService.Portal.Web.Host",
-      "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Host\\eService.Portal.Web.Host.csproj",
+      "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Host\\eService.Portal.Web.Host.csproj",
       "packagesPath": "C:\\Users\\Shahid Randhawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Host\\obj\\",
+      "outputPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shahid Randhawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10765,8 +10765,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Core\\eService.Portal.Web.Core.csproj": {
-              "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\eService.Portal\\aspnet-core\\src\\eService.Portal.Web.Core\\eService.Portal.Web.Core.csproj"
+            "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Core\\eService.Portal.Web.Core.csproj": {
+              "projectPath": "C:\\Users\\Shahid Randhawa\\OneDrive\\Desktop\\New folder\\Documents\\eService.Portal\\src\\eService.Portal.Web.Core\\eService.Portal.Web.Core.csproj"
             }
           }
         }

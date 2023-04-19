@@ -32,3 +32,20 @@ C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eServi
 C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.xml
 C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.pdb
 C:\Users\Shahid Randhawa\OneDrive\Desktop\eService.Portal\aspnet-core\src\eService.Portal.Application\obj\Debug\net7.0\ref\eService.Portal.Application.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\bin\Debug\net7.0\eService.Portal.Application.deps.json
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\bin\Debug\net7.0\eService.Portal.Application.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\bin\Debug\net7.0\eService.Portal.Application.pdb
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\bin\Debug\net7.0\eService.Portal.Application.xml
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\bin\Debug\net7.0\eService.Portal.Core.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\bin\Debug\net7.0\eService.Portal.Core.pdb
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.csproj.AssemblyReference.cache
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.AssemblyInfoInputs.cache
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.AssemblyInfo.cs
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.csproj.CoreCompileInputs.cache
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.csproj.CopyComplete
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\refint\eService.Portal.Application.dll
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.xml
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\eService.Portal.Application.pdb
+C:\Users\Shahid Randhawa\OneDrive\Desktop\New folder\Documents\eService.Portal\src\eService.Portal.Application\obj\Debug\net7.0\ref\eService.Portal.Application.dll
