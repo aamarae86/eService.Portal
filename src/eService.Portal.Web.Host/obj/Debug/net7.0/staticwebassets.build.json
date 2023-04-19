@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "JetZh8i31dWb5bA+4cL7v2dxOphyUROlqNRPWDGTr4o=",
+  "Source": "eService.Portal.Web.Host",
+  "BasePath": "_content/eService.Portal.Web.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "eService.Portal.Web.Host\\wwwroot",
+      "Source": "eService.Portal.Web.Host",
+      "ContentRoot": "C:\\Users\\Shahid Randhawa\\Downloads\\eService.Portal\\8.1.0\\aspnet-core\\src\\eService.Portal.Web.Host\\wwwroot\\",
+      "BasePath": "_content/eService.Portal.Web.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Shahid Randhawa\\Downloads\\eService.Portal\\8.1.0\\aspnet-core\\src\\eService.Portal.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "SourceId": "eService.Portal.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahid Randhawa\\Downloads\\eService.Portal\\8.1.0\\aspnet-core\\src\\eService.Portal.Web.Host\\wwwroot\\",
+      "BasePath": "_content/eService.Portal.Web.Host",
+      "RelativePath": "swagger/ui/abp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\abp.js"
+    },
+    {
+      "Identity": "C:\\Users\\Shahid Randhawa\\Downloads\\eService.Portal\\8.1.0\\aspnet-core\\src\\eService.Portal.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "SourceId": "eService.Portal.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahid Randhawa\\Downloads\\eService.Portal\\8.1.0\\aspnet-core\\src\\eService.Portal.Web.Host\\wwwroot\\",
+      "BasePath": "_content/eService.Portal.Web.Host",
+      "RelativePath": "swagger/ui/abp.swagger.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\abp.swagger.js"
+    }
+  ]
+}
